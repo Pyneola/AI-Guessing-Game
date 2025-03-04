@@ -23,13 +23,13 @@
 
 1. ดาวน์โหลดโค้ดจาก GitHub  
 ```
-   git clone  https://github.com/Pyneola/AI-Guessing-Game.git
-   cd AI Guessing Game
+git clone  https://github.com/Pyneola/AI-Guessing-Game.git
+cd AI-Guessing-Game
 ```
 2. รันโปรแกรม
-  ```
-    python game.py
-  ```
+```
+python game.py
+```
 
 ---
 
