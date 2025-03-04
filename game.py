@@ -68,7 +68,7 @@ while not found:
         user_input = int(input("\nEnter your guess (1-100): "))
 
         if user_input in player_history:
-            print(f"{RED}⚠️ You have already guessed this number. Try again!{RESET}")
+            print(f"{RED}You have already guessed this number. Try again!{RESET}")
             continue
 
         player_attempts += 1
